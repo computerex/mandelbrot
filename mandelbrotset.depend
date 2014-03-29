@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1396081913 source:c:\projects\mandelbrotset\mandelbrot.cpp
+	<stdio.h>
+	<vector>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	"glut.h"
+	"matrix.h"
+	"complex.h"
+
+976695772 c:\projects\mandelbrotset\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1354328581 c:\projects\mandelbrotset\matrix.h
+
+1371108477 c:\projects\mandelbrotset\complex.h
+	<math.h>
+
